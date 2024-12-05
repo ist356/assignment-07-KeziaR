@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+For this assignment I learned about webscraping and how to clean the data so that relevant information is extracted. I also learned how dataclasses could be utilized to reduce lines of code.
